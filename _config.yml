@@ -22,7 +22,6 @@ repository               : "GiovanniPoli/GiovanniPoli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  empty.png 
   name             : "Giovanni Poli"
   pronouns         : "He/His"  
   bio              : "Bayesian Inference, Bayesian nonprametrics, Biostatistics"
