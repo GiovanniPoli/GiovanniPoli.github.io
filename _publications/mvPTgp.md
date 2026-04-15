@@ -1,0 +1,15 @@
+---
+title: "High-Dimensional Bayesian Semiparametric Models for Small Samples: A Principled Approach to the Analysis of Cytokine Expression Data"
+collection: publications
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Crohn's disease, cytokines, Dirichlet Process, semiparametric Bayesian modeling'
+date: 2024-12-01
+venue: 'Biometrical Journal'
+slidesurl: 'https://flore.unifi.it/retrieve/31446f87-7727-40d8-a6cd-66ee1607bc8f/ujae136.pdf'
+paperurl:  'https://flore.unifi.it/retrieve/31446f87-7727-40d8-a6cd-66ee1607bc8f/ujae136.pdf'
+citation: 'Giovanni Poli, Elena Fountzilas, Apostolia-Maria Tsimeridou, Peter Müller, A multivariate Polya tree model for meta-analysis with event-time distributions, Biometrics, Volume 80, Issue 4, December 2024'
+---
+
+We develop a nonparametric Bayesian prior for a family of random probability measures by extending the Polya tree (⁠PT⁠) prior to a joint prior for a set of probability measures $G_1,\ldots,G_n$, suitable for meta-analysis with event-time outcomes. In the application to meta-analysis, $G_i$ is the event-time distribution specific to study $i$. The proposed model defines a regression on study-specific covariates by introducing increased correlation for any pair of studies with similar characteristics. The desired multivariate PT model is constructed by introducing a hierarchical prior on the conditional splitting probabilities in the PT construction for each of the $G_i$⁠. The hierarchical prior replaces the independent beta priors for the splitting probability in the PT construction with a Gaussian process prior for corresponding (logit) splitting probabilities across all studies. The Gaussian process is indexed by study-specific covariates, introducing the desired dependence with increased correlation for similar studies. The main feature of the proposed construction is (conditionally) conjugate posterior updating with commonly reported inference summaries for event-time data. The construction is motivated by a meta-analysis over cancer immunotherapy studies.
+
