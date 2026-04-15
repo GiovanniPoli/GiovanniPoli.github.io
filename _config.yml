@@ -22,17 +22,17 @@ repository               : "GiovanniPoli/GiovanniPoli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           :  #
   name             : "Giovanni Poli"
-  pronouns         : "he/his"  
+  pronouns         : "He/His"  
   bio              : "Bayesian Inference, Bayesian nonprametrics, Biostatistics"
-  location         : "Florence"
+  location         : "Viale Morgagni 65, Firenze"
   employer         : "University of Florence"
   uri              : https://GiovanniPoli.github.io
   email            : "giovanni.poli@unifi.it" 
 
   # Academic websites
-  academia         : # https://GiovanniPoli.github.io
+  academia         : # URL
   arxiv            : https://arxiv.org/search/stat?searchtype=author&query=Poli,+G # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=n9HkLcoAAAAJ&hl=it"
   inspire-hep      : # URL
@@ -106,7 +106,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "light"  # (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
