@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,20 +17,18 @@ Education
 
 Work experience
 ======
-* 2024-present: Research Fellow, University of Florence, Italy.
+- Research Fellow, University of Florence, Italy. (2024-present)
+- Adjunct Lecturer, Postgraduate Master’s Program in Data Science, University of Florence. (2025-2026)  
+- University of Colorado, Department of Biostatistics and Informatics, Colorado School of Public Health, Anschutz Medical Campus, Aurora, USA (May 2025)
+-	University of Texas at Austin, Department of Statistics & Data Science (Gen-Jun 2023)
 
-* 2025-2026: Adjunct Lecturer, Postgraduate Master’s Program in Data Science, University of Florence.  
-* University of Colorado, Department of Biostatistics and Informatics, Colorado School of Public Health, Anschutz Medical Campus, Aurora, USA (May 2025)
-*	University of Texas at Austin, Department of Statistics & Data Science (Gen-Jun 2023)
-
-Skills
+Organized Conference
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-	StaTalk 2024 (ySIS Conference), Florence, Italy. Member of the local organizing committee.
+
+Third Mission
+======
+-	The Symposium on Causality (University of Florence, with Harvard Data Science Initiative and the European University Institute; outreach activities), and BRIGHT-NIGHT 2024 (European Researchers’ Night), Science dissemination. 
 
 Publications
 ======
