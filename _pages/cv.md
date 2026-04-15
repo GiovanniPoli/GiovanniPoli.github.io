@@ -17,21 +17,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: Research Fellow, University of Florence, Italy.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025-2026: Adjunct Lecturer, Postgraduate Master’s Program in Data Science, University of Florence.  
+* University of Colorado, Department of Biostatistics and Informatics, Colorado School of Public Health, Anschutz Medical Campus, Aurora, USA (May 2025)
+*	University of Texas at Austin, Department of Statistics & Data Science (Gen-Jun 2023)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -59,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
