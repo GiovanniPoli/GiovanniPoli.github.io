@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "High-Dimensional Bayesian Semiparametric Models for Small Samples: A Principled Approach to the Analysis of Cytokine Expression Data"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
