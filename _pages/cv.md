@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in ggggggggggggggggv gt ty, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mathematics, Computer Sciences, Statistics, University of Florence, 2025
+* M.Sc. in Statistics, Actuarial and Financial Sciences, University of Florence, 2021
+* B.Sc. in Statistics, University of Florence, 2018
 
 Work experience
 ======
